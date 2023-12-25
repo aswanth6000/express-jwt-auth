@@ -1,0 +1,29 @@
+{
+  "name": "express-jwt-auth",
+  "version": "1.0.0",
+  "description": "Middleware for JWT authentication in Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aswanth6000/express-jwt-auth.git"
+  },
+  "keywords": [
+    "authentication",
+    "jwt",
+    "express"
+  ],
+  "author": "aswanth6000",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aswanth6000/express-jwt-auth/issues"
+  },
+  "homepage": "https://github.com/aswanth6000/express-jwt-auth#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
