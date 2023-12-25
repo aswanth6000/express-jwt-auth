@@ -1,5 +1,5 @@
 {
-  "name": "express-jwt-auth",
+  "name": "skill-vibe-express-jwt-auth",
   "version": "1.0.0",
   "description": "Middleware for JWT authentication in Express",
   "main": "index.js",
